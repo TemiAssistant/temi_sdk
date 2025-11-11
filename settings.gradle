@@ -1,2 +1,3 @@
-include ':sdk', ':sample'
+// include ':sdk', ':sample'
+include ':sample'
 include ':testapp'
